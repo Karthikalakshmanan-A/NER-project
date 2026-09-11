@@ -1,0 +1,6 @@
+{
+  "name": "NER SmartMove AI",
+  "description": "AI-Based Smart Logistics and Terrain Accessibility Intelligence Platform for Pan-India and Challenging Mountain Terrains",
+  "requestFramePermissions": ["geolocation", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
